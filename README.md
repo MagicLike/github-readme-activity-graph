@@ -99,6 +99,7 @@ Customize the appearance of your Activity Graph however you want with URL params
 | `custom_title` |          set the title to any string          |           string           |
 |    `theme`     | name of [available themes](#available-themes) |           string           |
 |    `radius`    |            border radius of graph             |  number (0-16 inclusive)   |
+|    `height`    |              height of the graph              | number (200-600 inclusive) |
 
 ⚠ **For `custom_title` please make sure that you are using %20 for spaces**
 
@@ -415,6 +416,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         </a>
         <br />
         <a href="https://github.com/Ashutosh00710/github-readme-activity-graph/commits?author=polekstulod" title="Documentation">📖</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jmloudis">
+            <img src="https://avatars.githubusercontent.com/u/70452698?v=4" width="100px;" alt=""/>
+            <br />
+            <sub><b>jmloudis</b></sub>
+        </a>
+        <br />
+        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph/pulls?q=author%3Ajmloudis+" title="Code">💻</a>
     </td>
   </tr>
 </table>
